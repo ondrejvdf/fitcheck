@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "catalog:usda:169756",
+    "name": "Rýže bílá dlouhozrnná – syrová",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 75,
+    "nutrients": {
+      "energy": 365.0,
+      "protein": 7.13,
+      "fat": 0.66,
+      "sugars": 0.12,
+      "saturated": 0.18,
+      "fiber": 1.3,
+      "carbs": 78.65,
+      "salt": 0.0125
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 169756,
+      "description": "Rice, white, long-grain, regular, raw, unenriched",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:169757",
+    "name": "Rýže bílá dlouhozrnná – vařená bez soli",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 180,
+    "nutrients": {
+      "energy": 130.0,
+      "protein": 2.69,
+      "fat": 0.28,
+      "sugars": 0.05,
+      "saturated": 0.077,
+      "fiber": 0.4,
+      "carbs": 27.77,
+      "salt": 0.0025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 169757,
+      "description": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:168927",
+    "name": "Těstoviny – suché",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 80,
+    "nutrients": {
+      "energy": 371.0,
+      "protein": 13.04,
+      "fat": 1.51,
+      "sugars": 2.67,
+      "saturated": 0.277,
+      "fiber": 3.2,
+      "carbs": 71.47,
+      "salt": 0.015
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 168927,
+      "description": "Pasta, dry, unenriched",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:168928",
+    "name": "Těstoviny – vařené bez soli",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 200,
+    "nutrients": {
+      "energy": 158.0,
+      "protein": 5.8,
+      "fat": 0.93,
+      "sugars": 0.56,
+      "saturated": 0.176,
+      "fiber": 1.8,
+      "carbs": 29.06,
+      "salt": 0.0025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 168928,
+      "description": "Pasta, cooked, unenriched, without added salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173904",
+    "name": "Ovesné vločky – suché",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 60,
+    "nutrients": {
+      "energy": 379.0,
+      "protein": 13.15,
+      "fat": 6.52,
+      "sugars": 0.99,
+      "saturated": 1.11,
+      "fiber": 10.1,
+      "carbs": 57.6,
+      "salt": 0.015
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173904,
+      "description": "Cereals, oats, regular and quick, not fortified, dry",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173905",
+    "name": "Ovesná kaše – vařená ve vodě bez soli",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 250,
+    "nutrients": {
+      "energy": 71.0,
+      "protein": 2.54,
+      "fat": 1.52,
+      "sugars": 0.27,
+      "saturated": 0.31,
+      "fiber": 1.7,
+      "carbs": 10.3,
+      "salt": 0.01
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173905,
+      "description": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170685",
+    "name": "Pohanka pražená – suchá",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 70,
+    "nutrients": {
+      "energy": 346.0,
+      "protein": 11.73,
+      "fat": 2.71,
+      "saturated": 0.591,
+      "fiber": 10.3,
+      "carbs": 64.65,
+      "salt": 0.0275
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170685,
+      "description": "Buckwheat groats, roasted, dry",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170686",
+    "name": "Pohanka pražená – vařená",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 180,
+    "nutrients": {
+      "energy": 92.0,
+      "protein": 3.38,
+      "fat": 0.62,
+      "sugars": 0.9,
+      "saturated": 0.134,
+      "fiber": 2.7,
+      "carbs": 17.24,
+      "salt": 0.01
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170686,
+      "description": "Buckwheat groats, roasted, cooked",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170438",
+    "name": "Brambory – vařené ve slupce, oloupané, bez soli",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 200,
+    "nutrients": {
+      "energy": 87.0,
+      "protein": 1.87,
+      "fat": 0.1,
+      "sugars": 0.91,
+      "saturated": 0.026,
+      "fiber": 1.8,
+      "carbs": 18.33,
+      "salt": 0.01
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170438,
+      "description": "Potatoes, boiled, cooked in skin, flesh, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170440",
+    "name": "Brambory – vařené bez slupky a soli",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 200,
+    "nutrients": {
+      "energy": 86.0,
+      "protein": 1.71,
+      "fat": 0.1,
+      "sugars": 0.89,
+      "saturated": 0.026,
+      "fiber": 1.8,
+      "carbs": 18.21,
+      "salt": 0.0125
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170440,
+      "description": "Potatoes, boiled, cooked without skin, flesh, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:172421",
+    "name": "Čočka – vařená bez soli",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 116.0,
+      "protein": 9.02,
+      "fat": 0.38,
+      "sugars": 1.8,
+      "saturated": 0.053,
+      "fiber": 7.9,
+      "carbs": 12.23,
+      "salt": 0.005
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 172421,
+      "description": "Lentils, mature seeds, cooked, boiled, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173744",
+    "name": "Fazole červené – suché",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 70,
+    "nutrients": {
+      "energy": 337.0,
+      "protein": 22.53,
+      "fat": 1.06,
+      "sugars": 2.1,
+      "saturated": 0.154,
+      "fiber": 15.2,
+      "carbs": 46.09,
+      "salt": 0.03
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173744,
+      "description": "Beans, kidney, red, mature seeds, raw",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:175194",
+    "name": "Fazole červené – vařené bez soli",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 127.0,
+      "protein": 8.67,
+      "fat": 0.5,
+      "sugars": 0.32,
+      "saturated": 0.072,
+      "fiber": 7.4,
+      "carbs": 15.4,
+      "salt": 0.005
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 175194,
+      "description": "Beans, kidney, red, mature seeds, cooked, boiled, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173756",
+    "name": "Cizrna – suchá",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 70,
+    "nutrients": {
+      "energy": 378.0,
+      "protein": 20.47,
+      "fat": 6.04,
+      "sugars": 10.7,
+      "saturated": 0.603,
+      "fiber": 12.2,
+      "carbs": 50.75,
+      "salt": 0.06
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173756,
+      "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173757",
+    "name": "Cizrna – vařená bez soli",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 164.0,
+      "protein": 8.86,
+      "fat": 2.59,
+      "sugars": 4.8,
+      "saturated": 0.269,
+      "fiber": 7.6,
+      "carbs": 19.82,
+      "salt": 0.0175
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173757,
+      "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170420",
+    "name": "Hrášek zelený – vařený bez soli",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 84.0,
+      "protein": 5.36,
+      "fat": 0.22,
+      "sugars": 5.93,
+      "saturated": 0.039,
+      "fiber": 5.5,
+      "carbs": 10.13,
+      "salt": 0.0075
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170420,
+      "description": "Peas, green, cooked, boiled, drained, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:171477",
+    "name": "Kuřecí prsa bez kůže – pečená",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 165.0,
+      "protein": 31.02,
+      "fat": 3.57,
+      "sugars": 0.0,
+      "saturated": 1.01,
+      "fiber": 0.0,
+      "carbs": 0,
+      "salt": 0.185
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 171477,
+      "description": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:171478",
+    "name": "Kuřecí prsa bez kůže – dušená",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 151.0,
+      "protein": 28.98,
+      "fat": 3.03,
+      "sugars": 0.0,
+      "saturated": 0.85,
+      "fiber": 0.0,
+      "carbs": 0,
+      "salt": 0.1575
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 171478,
+      "description": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:175167",
+    "name": "Losos atlantský z chovu – syrový",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 208.0,
+      "protein": 20.42,
+      "fat": 13.42,
+      "sugars": 0.0,
+      "saturated": 3.05,
+      "fiber": 0.0,
+      "carbs": 0,
+      "salt": 0.1475
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 175167,
+      "description": "Fish, salmon, Atlantic, farmed, raw",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:175168",
+    "name": "Losos atlantský z chovu – tepelně upravený",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 206.0,
+      "protein": 22.1,
+      "fat": 12.35,
+      "sugars": 0.0,
+      "saturated": 2.397,
+      "fiber": 0.0,
+      "carbs": 0,
+      "salt": 0.1525
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 175168,
+      "description": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:171287",
+    "name": "Vejce celé – syrové bez skořápky",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 50,
+    "nutrients": {
+      "energy": 143.0,
+      "protein": 12.56,
+      "fat": 9.51,
+      "sugars": 0.37,
+      "saturated": 3.126,
+      "fiber": 0.0,
+      "carbs": 0.72,
+      "salt": 0.355
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 171287,
+      "description": "Egg, whole, raw, fresh",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173424",
+    "name": "Vejce celé – vařené natvrdo bez skořápky",
+    "category": "meat",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 50,
+    "nutrients": {
+      "energy": 155.0,
+      "protein": 12.58,
+      "fat": 10.61,
+      "sugars": 1.12,
+      "saturated": 3.267,
+      "fiber": 0.0,
+      "carbs": 1.12,
+      "salt": 0.31
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173424,
+      "description": "Egg, whole, cooked, hard-boiled",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170886",
+    "name": "Jogurt bílý nízkotučný",
+    "category": "dairy",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 63.0,
+      "protein": 5.25,
+      "fat": 1.55,
+      "sugars": 7.04,
+      "saturated": 1.0,
+      "fiber": 0.0,
+      "carbs": 7.04,
+      "salt": 0.175
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170886,
+      "description": "Yogurt, plain, low fat",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:172205",
+    "name": "Mléko 2 % tuku (vážené v gramech)",
+    "category": "dairy",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 200,
+    "nutrients": {
+      "energy": 50.0,
+      "protein": 3.3,
+      "fat": 1.98,
+      "saturated": 1.257,
+      "fiber": 0.0,
+      "carbs": 4.8,
+      "salt": 0.1175
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 172205,
+      "description": "Milk, reduced fat, fluid, 2% milkfat, without added vitamin A and vitamin D",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku.",
+      "Zdroj uvádí cukry 5.06 g a sacharidy 4.8 g na 100 g z různých stanovení. Cukry proto zobrazujeme jako neznámé; hodnoty jsme svévolně nesrovnávali."
+    ]
+  },
+  {
+    "id": "catalog:usda:172475",
+    "name": "Tofu pevné, s vápenatou srážecí solí",
+    "category": "general",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 144.0,
+      "protein": 17.27,
+      "fat": 8.72,
+      "saturated": 1.261,
+      "fiber": 2.3,
+      "carbs": 0.48,
+      "salt": 0.035
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 172475,
+      "description": "Tofu, raw, firm, prepared with calcium sulfate",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:172684",
+    "name": "Chléb žitný",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 60,
+    "nutrients": {
+      "energy": 259.0,
+      "protein": 8.5,
+      "fat": 3.3,
+      "sugars": 3.85,
+      "saturated": 0.626,
+      "fiber": 5.8,
+      "carbs": 42.5,
+      "salt": 1.5075
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 172684,
+      "description": "Bread, rye",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:172688",
+    "name": "Chléb celozrnný pšeničný",
+    "category": "bread",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 60,
+    "nutrients": {
+      "energy": 252.0,
+      "protein": 12.45,
+      "fat": 3.5,
+      "sugars": 4.34,
+      "saturated": 0.722,
+      "fiber": 6.0,
+      "carbs": 36.71,
+      "salt": 1.1375
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 172688,
+      "description": "Bread, whole-wheat, commercially prepared",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:171688",
+    "name": "Jablko se slupkou – syrové",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 52.0,
+      "protein": 0.26,
+      "fat": 0.17,
+      "sugars": 10.39,
+      "saturated": 0.028,
+      "fiber": 2.4,
+      "carbs": 11.41,
+      "salt": 0.0025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 171688,
+      "description": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173944",
+    "name": "Banán bez slupky – syrový",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 120,
+    "nutrients": {
+      "energy": 89.0,
+      "protein": 1.09,
+      "fat": 0.33,
+      "sugars": 12.23,
+      "saturated": 0.112,
+      "fiber": 2.6,
+      "carbs": 20.24,
+      "salt": 0.0025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173944,
+      "description": "Bananas, raw",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170393",
+    "name": "Mrkev – syrová",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 100,
+    "nutrients": {
+      "energy": 41.0,
+      "protein": 0.93,
+      "fat": 0.24,
+      "sugars": 4.74,
+      "saturated": 0.032,
+      "fiber": 2.8,
+      "carbs": 6.78,
+      "salt": 0.1725
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170393,
+      "description": "Carrots, raw",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170379",
+    "name": "Brokolice – syrová",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 34.0,
+      "protein": 2.82,
+      "fat": 0.37,
+      "sugars": 1.7,
+      "saturated": 0.114,
+      "fiber": 2.6,
+      "carbs": 4.04,
+      "salt": 0.0825
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170379,
+      "description": "Broccoli, raw",
+      "state": "raw"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:169967",
+    "name": "Brokolice – vařená bez soli",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 35.0,
+      "protein": 2.38,
+      "fat": 0.41,
+      "sugars": 1.39,
+      "saturated": 0.079,
+      "fiber": 3.3,
+      "carbs": 3.88,
+      "salt": 0.1025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 169967,
+      "description": "Broccoli, cooked, boiled, drained, without salt",
+      "state": "cooked"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:168409",
+    "name": "Okurka se slupkou – syrová",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 15.0,
+      "protein": 0.65,
+      "fat": 0.11,
+      "sugars": 1.67,
+      "saturated": 0.037,
+      "fiber": 0.5,
+      "carbs": 3.13,
+      "salt": 0.005
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 168409,
+      "description": "Cucumber, with peel, raw",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170457",
+    "name": "Rajčata červená – syrová",
+    "category": "fruit",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 150,
+    "nutrients": {
+      "energy": 18.0,
+      "protein": 0.88,
+      "fat": 0.2,
+      "sugars": 2.63,
+      "saturated": 0.028,
+      "fiber": 1.2,
+      "carbs": 2.69,
+      "salt": 0.0125
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170457,
+      "description": "Tomatoes, red, ripe, raw, year round average",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:170567",
+    "name": "Mandle přírodní",
+    "category": "nuts",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 30,
+    "nutrients": {
+      "energy": 579.0,
+      "protein": 21.15,
+      "fat": 49.93,
+      "sugars": 4.35,
+      "saturated": 3.802,
+      "fiber": 12.5,
+      "carbs": 9.05,
+      "salt": 0.0025
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 170567,
+      "description": "Nuts, almonds",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:171413",
+    "name": "Olivový olej",
+    "category": "oil",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 10,
+    "nutrients": {
+      "energy": 884.0,
+      "protein": 0.0,
+      "fat": 100.0,
+      "sugars": 0.0,
+      "saturated": 13.808,
+      "fiber": 0.0,
+      "carbs": 0,
+      "salt": 0.005
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 171413,
+      "description": "Oil, olive, salad or cooking",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  },
+  {
+    "id": "catalog:usda:173430",
+    "name": "Máslo nesolené",
+    "category": "oil",
+    "categoryCertain": true,
+    "unit": "g",
+    "portion": 10,
+    "nutrients": {
+      "energy": 717.0,
+      "protein": 0.85,
+      "fat": 81.11,
+      "sugars": 0.06,
+      "saturated": 50.489,
+      "fiber": 0.0,
+      "carbs": 0.06,
+      "salt": 0.0275
+    },
+    "source": "catalog",
+    "date": "2026-10-29T00:00:00.000Z",
+    "brand": "USDA · základní surovina",
+    "catalog": {
+      "fdcId": 173430,
+      "description": "Butter, without salt",
+      "state": "ready"
+    },
+    "sourceNotes": [
+      "Obecná referenční surovina USDA SR Legacy 2018, nikoliv konkrétní česká značka. Hodnoty na 100 g jedlého podílu; sacharidy bez vlákniny, sůl přepočtená ze sodíku."
+    ]
+  }
+]
